@@ -100,7 +100,7 @@ Each AIP is logged in the CSV manifest with:
 ##    4: Splitter 
 
 
-Split your filtered results into multiple folder (zipped, if you like)
+Split your filtered results into multiple folders (zipped, if you like)
 
 1. Edit the config:
    ```bash
